@@ -3,5 +3,5 @@
   <a href="https://microsoft.com">
     <img src="https://skillicons.dev/icons?i=python,golang,vscode,c,cs,html,js,css" />
   </a>
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=dnsamp&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=dnsamp&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 </p>
