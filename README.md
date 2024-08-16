@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://microsoft.com">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,c,cs,html,js,css" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,lua" alt="Skills" />
   </a>
 </p>
 
