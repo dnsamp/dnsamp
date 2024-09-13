@@ -4,7 +4,13 @@
 
 <p align="center">
   <a href="https://microsoft.com">
-    <img src="https://skillicons.dev/icons?i=python,vscode,lua" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,vscode" alt="Skills" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://microsoft.com">
+    #Learning
+    <img src="https://skillicons.dev/icons?i=php,js" alt="Skills" />
   </a>
 </p>
 
