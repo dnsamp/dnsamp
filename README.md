@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://microsoft.com">
   
-  <img src="https://skillicons.dev/icons?i=php,js" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=php,js,java,go" alt="Skills" />
   </a>
 </p>
 
